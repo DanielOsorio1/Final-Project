@@ -10,4 +10,6 @@ This CNN was only run with BBBC005_v1_ground_truth\BBBC005_v1_ground_truth
 Run the first cell to give Collab access to your Google Drive.
 Make sure your images are visible in the files section of Colab.
 Run the second cell and ensure your images are loaded correctly.
+Now, The rest of the code will work. 
 
+https://youtu.be/Gf2i3W8Ro_Y 
